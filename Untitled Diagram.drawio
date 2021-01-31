@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T18:35:51.963Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="zxKj8L-TVaazZkcfkKP_" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T18:44:23.861Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="gWO1ETjbJjBrJRjFYgNA" version="14.2.9" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1409" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3jCtUMYixhxMc4JCGIBf-1" value="Notes:&amp;nbsp;&lt;br&gt;* Storage right now is designed as primitive data type using Array. With the advancements in the programming language and underlying support from Operating System, low level memory operations aren&#39;t envisioned in this specific use case and I believe that we can instead use Array as our storage for this initial phase. If there is a need to enhance, a custom data structure would be sufficient here&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="80" y="730" width="350" height="130" as="geometry" />
+          <mxGeometry x="10" y="680" width="350" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3jCtUMYixhxMc4JCGIBf-11" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="phy_oIgyeEhYIAaXvfVB-4" target="8xvTotdAk9lfw0vqoSSg-8" edge="1">
           <mxGeometry x="-1" y="3" relative="1" as="geometry">
